@@ -14,7 +14,7 @@ Este repositorio sirve como referencia técnica para el mantenimiento del servid
 | **Sistema operativo** | Ubuntu Server |
 | **IP local fija** | `192.168.0.77` |
 | **Interfaz de red** | Ethernet (`enp7s0`) |
-| **Acceso remoto** | Tailscale (`melinoe.tail3d13a6.ts.net`) |
+| **Acceso remoto** | Tailscale |
 
 ---
 
