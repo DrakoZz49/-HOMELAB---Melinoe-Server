@@ -16,7 +16,7 @@ No tengo un rack. No tengo un CPD. Tengo un portátil reciclado, mucha curiosida
 
 ## 🖥️ El proyecto estrella
 
-### [Melinoé Homelab](https://github.com/byDrakoZz/melinoe-homelab)
+### [Melinoe Homelab](https://github.com/DrakoZz49/-HOMELAB---Melinoe-Server)
 
 Mi servidor doméstico. Un portátil reconvertido en servidor corriendo Ubuntu Server con Docker.  
 Aquí documento todo: servicios, configuraciones, y los errores que me costaron horas para que a ti te cuesten minutos.
@@ -48,5 +48,5 @@ Estoy por aquí, cacharreando. Si tienes un proyecto interesante o simplemente q
 
 ---
 
-*"Si funciona, no lo toques. Pero si lo tocas, documéntalo."*  
-— byDrakoZz, probablemente a las 2 de la madrugada
+*"Si funciona, no lo toques. Y si la pereza no te puede, documentalo"*  
+— byDrakoZz, probablemente tras ver que no tenía documentación
