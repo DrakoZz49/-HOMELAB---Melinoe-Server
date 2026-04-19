@@ -1,0 +1,14 @@
+# Variables de entorno (pueden contener contraseñas o tokens)
+.env
+*.env
+
+# Logs
+*.log
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Carpetas de datos de Docker (son enormes y no tienen sentido en GitHub)
+data/
+volumes/
