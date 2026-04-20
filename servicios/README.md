@@ -1,6 +1,6 @@
-# 🖥️ Melinoé Homelab
+# 🖥️ Melinoe Homelab
 
-Documentación personal del servidor doméstico **Melinoé**: un portátil reciclado reconvertido en servidor casero, corriendo Ubuntu Server con varios servicios en Docker.
+Documentación personal del servidor doméstico **Melinoe**: un portátil reciclado reconvertido en servidor casero, corriendo Ubuntu Server con varios servicios en Docker.
 
 Este repositorio sirve como referencia técnica para el mantenimiento del servidor y como guía para cualquiera que quiera montar algo similar desde cero.
 
