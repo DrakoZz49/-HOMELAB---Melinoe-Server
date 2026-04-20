@@ -20,16 +20,16 @@ Este repositorio sirve como referencia técnica para el mantenimiento del servid
 
 ## 🐳 Servicios
 
-Todos los servicios corren en Docker, organizados en carpetas independientes bajo `~/docker/`, excepto Watchtower que reside en `~/watchtower/`.
+Todos los servicios corren en Docker, organizados en carpetas independientes.
 
 | Servicio | Puerto | Carpeta |
 |---|---|---|
-| Nextcloud | `8080` | `~/docker/nextcloud-docker/` |
-| Jellyfin | `8096` | `~/docker/jellyfin/` |
-| Calibre-Web | `8083` | `~/docker/calibre-web/` |
-| RomM | `8084` | `~/docker/romm/` |
-| Uptime Kuma | `3001` | `~/docker/nextcloud-docker/` |
-| Flame | `8085` | `~/docker/flame/` |
+| Nextcloud | `8080` | `~/nextcloud-docker/` |
+| Jellyfin | `8096` | `~/jellyfin/` |
+| Calibre-Web | `8083` | `~/calibre-web/` |
+| RomM | `8084` | `~/romm/` |
+| Uptime Kuma | `3001` | `~/nextcloud-docker/` |
+| Flame | `8085` | `~/flame/` |
 | Watchtower | — | `~/watchtower/` |
 
 ---
